@@ -1,0 +1,3631 @@
+{
+  "source": "https://api.qurancdn.com/api/qdc/pages/lookup",
+  "mushaf": 1,
+  "layout": "QCF V2",
+  "pages": {
+    "1": {
+      "first_verse_key": "1:1",
+      "last_verse_key": "1:7",
+      "from": "1:1",
+      "to": "1:7"
+    },
+    "2": {
+      "first_verse_key": "2:1",
+      "last_verse_key": "2:5",
+      "from": "2:1",
+      "to": "2:5"
+    },
+    "3": {
+      "first_verse_key": "2:6",
+      "last_verse_key": "2:16",
+      "from": "2:6",
+      "to": "2:16"
+    },
+    "4": {
+      "first_verse_key": "2:17",
+      "last_verse_key": "2:24",
+      "from": "2:17",
+      "to": "2:24"
+    },
+    "5": {
+      "first_verse_key": "2:25",
+      "last_verse_key": "2:29",
+      "from": "2:25",
+      "to": "2:29"
+    },
+    "6": {
+      "first_verse_key": "2:30",
+      "last_verse_key": "2:37",
+      "from": "2:30",
+      "to": "2:37"
+    },
+    "7": {
+      "first_verse_key": "2:38",
+      "last_verse_key": "2:48",
+      "from": "2:38",
+      "to": "2:48"
+    },
+    "8": {
+      "first_verse_key": "2:49",
+      "last_verse_key": "2:57",
+      "from": "2:49",
+      "to": "2:57"
+    },
+    "9": {
+      "first_verse_key": "2:58",
+      "last_verse_key": "2:61",
+      "from": "2:58",
+      "to": "2:61"
+    },
+    "10": {
+      "first_verse_key": "2:62",
+      "last_verse_key": "2:69",
+      "from": "2:62",
+      "to": "2:69"
+    },
+    "11": {
+      "first_verse_key": "2:70",
+      "last_verse_key": "2:76",
+      "from": "2:70",
+      "to": "2:76"
+    },
+    "12": {
+      "first_verse_key": "2:77",
+      "last_verse_key": "2:83",
+      "from": "2:77",
+      "to": "2:83"
+    },
+    "13": {
+      "first_verse_key": "2:84",
+      "last_verse_key": "2:88",
+      "from": "2:84",
+      "to": "2:88"
+    },
+    "14": {
+      "first_verse_key": "2:89",
+      "last_verse_key": "2:93",
+      "from": "2:89",
+      "to": "2:93"
+    },
+    "15": {
+      "first_verse_key": "2:94",
+      "last_verse_key": "2:101",
+      "from": "2:94",
+      "to": "2:101"
+    },
+    "16": {
+      "first_verse_key": "2:102",
+      "last_verse_key": "2:105",
+      "from": "2:102",
+      "to": "2:105"
+    },
+    "17": {
+      "first_verse_key": "2:106",
+      "last_verse_key": "2:112",
+      "from": "2:106",
+      "to": "2:112"
+    },
+    "18": {
+      "first_verse_key": "2:113",
+      "last_verse_key": "2:119",
+      "from": "2:113",
+      "to": "2:119"
+    },
+    "19": {
+      "first_verse_key": "2:120",
+      "last_verse_key": "2:126",
+      "from": "2:120",
+      "to": "2:126"
+    },
+    "20": {
+      "first_verse_key": "2:127",
+      "last_verse_key": "2:134",
+      "from": "2:127",
+      "to": "2:134"
+    },
+    "21": {
+      "first_verse_key": "2:135",
+      "last_verse_key": "2:141",
+      "from": "2:135",
+      "to": "2:141"
+    },
+    "22": {
+      "first_verse_key": "2:142",
+      "last_verse_key": "2:145",
+      "from": "2:142",
+      "to": "2:145"
+    },
+    "23": {
+      "first_verse_key": "2:146",
+      "last_verse_key": "2:153",
+      "from": "2:146",
+      "to": "2:153"
+    },
+    "24": {
+      "first_verse_key": "2:154",
+      "last_verse_key": "2:163",
+      "from": "2:154",
+      "to": "2:163"
+    },
+    "25": {
+      "first_verse_key": "2:164",
+      "last_verse_key": "2:169",
+      "from": "2:164",
+      "to": "2:169"
+    },
+    "26": {
+      "first_verse_key": "2:170",
+      "last_verse_key": "2:176",
+      "from": "2:170",
+      "to": "2:176"
+    },
+    "27": {
+      "first_verse_key": "2:177",
+      "last_verse_key": "2:181",
+      "from": "2:177",
+      "to": "2:181"
+    },
+    "28": {
+      "first_verse_key": "2:182",
+      "last_verse_key": "2:186",
+      "from": "2:182",
+      "to": "2:186"
+    },
+    "29": {
+      "first_verse_key": "2:187",
+      "last_verse_key": "2:190",
+      "from": "2:187",
+      "to": "2:190"
+    },
+    "30": {
+      "first_verse_key": "2:191",
+      "last_verse_key": "2:196",
+      "from": "2:191",
+      "to": "2:196"
+    },
+    "31": {
+      "first_verse_key": "2:197",
+      "last_verse_key": "2:202",
+      "from": "2:197",
+      "to": "2:202"
+    },
+    "32": {
+      "first_verse_key": "2:203",
+      "last_verse_key": "2:210",
+      "from": "2:203",
+      "to": "2:210"
+    },
+    "33": {
+      "first_verse_key": "2:211",
+      "last_verse_key": "2:215",
+      "from": "2:211",
+      "to": "2:215"
+    },
+    "34": {
+      "first_verse_key": "2:216",
+      "last_verse_key": "2:219",
+      "from": "2:216",
+      "to": "2:219"
+    },
+    "35": {
+      "first_verse_key": "2:220",
+      "last_verse_key": "2:224",
+      "from": "2:220",
+      "to": "2:224"
+    },
+    "36": {
+      "first_verse_key": "2:225",
+      "last_verse_key": "2:230",
+      "from": "2:225",
+      "to": "2:230"
+    },
+    "37": {
+      "first_verse_key": "2:231",
+      "last_verse_key": "2:233",
+      "from": "2:231",
+      "to": "2:233"
+    },
+    "38": {
+      "first_verse_key": "2:234",
+      "last_verse_key": "2:237",
+      "from": "2:234",
+      "to": "2:237"
+    },
+    "39": {
+      "first_verse_key": "2:238",
+      "last_verse_key": "2:245",
+      "from": "2:238",
+      "to": "2:245"
+    },
+    "40": {
+      "first_verse_key": "2:246",
+      "last_verse_key": "2:248",
+      "from": "2:246",
+      "to": "2:248"
+    },
+    "41": {
+      "first_verse_key": "2:249",
+      "last_verse_key": "2:252",
+      "from": "2:249",
+      "to": "2:252"
+    },
+    "42": {
+      "first_verse_key": "2:253",
+      "last_verse_key": "2:256",
+      "from": "2:253",
+      "to": "2:256"
+    },
+    "43": {
+      "first_verse_key": "2:257",
+      "last_verse_key": "2:259",
+      "from": "2:257",
+      "to": "2:259"
+    },
+    "44": {
+      "first_verse_key": "2:260",
+      "last_verse_key": "2:264",
+      "from": "2:260",
+      "to": "2:264"
+    },
+    "45": {
+      "first_verse_key": "2:265",
+      "last_verse_key": "2:269",
+      "from": "2:265",
+      "to": "2:269"
+    },
+    "46": {
+      "first_verse_key": "2:270",
+      "last_verse_key": "2:274",
+      "from": "2:270",
+      "to": "2:274"
+    },
+    "47": {
+      "first_verse_key": "2:275",
+      "last_verse_key": "2:281",
+      "from": "2:275",
+      "to": "2:281"
+    },
+    "48": {
+      "first_verse_key": "2:282",
+      "last_verse_key": "2:282",
+      "from": "2:282",
+      "to": "2:282"
+    },
+    "49": {
+      "first_verse_key": "2:283",
+      "last_verse_key": "2:286",
+      "from": "2:283",
+      "to": "2:286"
+    },
+    "50": {
+      "first_verse_key": "3:1",
+      "last_verse_key": "3:9",
+      "from": "3:1",
+      "to": "3:9"
+    },
+    "51": {
+      "first_verse_key": "3:10",
+      "last_verse_key": "3:15",
+      "from": "3:10",
+      "to": "3:15"
+    },
+    "52": {
+      "first_verse_key": "3:16",
+      "last_verse_key": "3:22",
+      "from": "3:16",
+      "to": "3:22"
+    },
+    "53": {
+      "first_verse_key": "3:23",
+      "last_verse_key": "3:29",
+      "from": "3:23",
+      "to": "3:29"
+    },
+    "54": {
+      "first_verse_key": "3:30",
+      "last_verse_key": "3:37",
+      "from": "3:30",
+      "to": "3:37"
+    },
+    "55": {
+      "first_verse_key": "3:38",
+      "last_verse_key": "3:45",
+      "from": "3:38",
+      "to": "3:45"
+    },
+    "56": {
+      "first_verse_key": "3:46",
+      "last_verse_key": "3:52",
+      "from": "3:46",
+      "to": "3:52"
+    },
+    "57": {
+      "first_verse_key": "3:53",
+      "last_verse_key": "3:61",
+      "from": "3:53",
+      "to": "3:61"
+    },
+    "58": {
+      "first_verse_key": "3:62",
+      "last_verse_key": "3:70",
+      "from": "3:62",
+      "to": "3:70"
+    },
+    "59": {
+      "first_verse_key": "3:71",
+      "last_verse_key": "3:77",
+      "from": "3:71",
+      "to": "3:77"
+    },
+    "60": {
+      "first_verse_key": "3:78",
+      "last_verse_key": "3:83",
+      "from": "3:78",
+      "to": "3:83"
+    },
+    "61": {
+      "first_verse_key": "3:84",
+      "last_verse_key": "3:91",
+      "from": "3:84",
+      "to": "3:91"
+    },
+    "62": {
+      "first_verse_key": "3:92",
+      "last_verse_key": "3:100",
+      "from": "3:92",
+      "to": "3:100"
+    },
+    "63": {
+      "first_verse_key": "3:101",
+      "last_verse_key": "3:108",
+      "from": "3:108",
+      "to": "3:108"
+    },
+    "64": {
+      "first_verse_key": "3:109",
+      "last_verse_key": "3:115",
+      "from": "3:109",
+      "to": "3:115"
+    },
+    "65": {
+      "first_verse_key": "3:116",
+      "last_verse_key": "3:121",
+      "from": "3:116",
+      "to": "3:121"
+    },
+    "66": {
+      "first_verse_key": "3:122",
+      "last_verse_key": "3:132",
+      "from": "3:122",
+      "to": "3:132"
+    },
+    "67": {
+      "first_verse_key": "3:133",
+      "last_verse_key": "3:140",
+      "from": "3:133",
+      "to": "3:140"
+    },
+    "68": {
+      "first_verse_key": "3:141",
+      "last_verse_key": "3:148",
+      "from": "3:141",
+      "to": "3:148"
+    },
+    "69": {
+      "first_verse_key": "3:149",
+      "last_verse_key": "3:153",
+      "from": "3:149",
+      "to": "3:153"
+    },
+    "70": {
+      "first_verse_key": "3:154",
+      "last_verse_key": "3:157",
+      "from": "3:154",
+      "to": "3:157"
+    },
+    "71": {
+      "first_verse_key": "3:158",
+      "last_verse_key": "3:165",
+      "from": "3:158",
+      "to": "3:165"
+    },
+    "72": {
+      "first_verse_key": "3:166",
+      "last_verse_key": "3:173",
+      "from": "3:166",
+      "to": "3:173"
+    },
+    "73": {
+      "first_verse_key": "3:174",
+      "last_verse_key": "3:180",
+      "from": "3:174",
+      "to": "3:180"
+    },
+    "74": {
+      "first_verse_key": "3:181",
+      "last_verse_key": "3:186",
+      "from": "3:181",
+      "to": "3:186"
+    },
+    "75": {
+      "first_verse_key": "3:187",
+      "last_verse_key": "3:194",
+      "from": "3:187",
+      "to": "3:194"
+    },
+    "76": {
+      "first_verse_key": "3:195",
+      "last_verse_key": "3:200",
+      "from": "3:195",
+      "to": "3:200"
+    },
+    "77": {
+      "first_verse_key": "4:1",
+      "last_verse_key": "4:6",
+      "from": "4:1",
+      "to": "4:6"
+    },
+    "78": {
+      "first_verse_key": "4:7",
+      "last_verse_key": "4:11",
+      "from": "4:7",
+      "to": "4:11"
+    },
+    "79": {
+      "first_verse_key": "4:12",
+      "last_verse_key": "4:14",
+      "from": "4:12",
+      "to": "4:14"
+    },
+    "80": {
+      "first_verse_key": "4:15",
+      "last_verse_key": "4:19",
+      "from": "4:15",
+      "to": "4:19"
+    },
+    "81": {
+      "first_verse_key": "4:20",
+      "last_verse_key": "4:23",
+      "from": "4:20",
+      "to": "4:23"
+    },
+    "82": {
+      "first_verse_key": "4:24",
+      "last_verse_key": "4:26",
+      "from": "4:24",
+      "to": "4:26"
+    },
+    "83": {
+      "first_verse_key": "4:27",
+      "last_verse_key": "4:33",
+      "from": "4:27",
+      "to": "4:33"
+    },
+    "84": {
+      "first_verse_key": "4:34",
+      "last_verse_key": "4:37",
+      "from": "4:34",
+      "to": "4:37"
+    },
+    "85": {
+      "first_verse_key": "4:38",
+      "last_verse_key": "4:44",
+      "from": "4:38",
+      "to": "4:44"
+    },
+    "86": {
+      "first_verse_key": "4:45",
+      "last_verse_key": "4:51",
+      "from": "4:45",
+      "to": "4:51"
+    },
+    "87": {
+      "first_verse_key": "4:52",
+      "last_verse_key": "4:59",
+      "from": "4:52",
+      "to": "4:59"
+    },
+    "88": {
+      "first_verse_key": "4:60",
+      "last_verse_key": "4:65",
+      "from": "4:60",
+      "to": "4:65"
+    },
+    "89": {
+      "first_verse_key": "4:66",
+      "last_verse_key": "4:74",
+      "from": "4:66",
+      "to": "4:74"
+    },
+    "90": {
+      "first_verse_key": "4:75",
+      "last_verse_key": "4:79",
+      "from": "4:75",
+      "to": "4:79"
+    },
+    "91": {
+      "first_verse_key": "4:80",
+      "last_verse_key": "4:86",
+      "from": "4:80",
+      "to": "4:86"
+    },
+    "92": {
+      "first_verse_key": "4:87",
+      "last_verse_key": "4:91",
+      "from": "4:87",
+      "to": "4:91"
+    },
+    "93": {
+      "first_verse_key": "4:92",
+      "last_verse_key": "4:94",
+      "from": "4:92",
+      "to": "4:94"
+    },
+    "94": {
+      "first_verse_key": "4:95",
+      "last_verse_key": "4:101",
+      "from": "4:95",
+      "to": "4:101"
+    },
+    "95": {
+      "first_verse_key": "4:102",
+      "last_verse_key": "4:105",
+      "from": "4:102",
+      "to": "4:105"
+    },
+    "96": {
+      "first_verse_key": "4:106",
+      "last_verse_key": "4:113",
+      "from": "4:106",
+      "to": "4:113"
+    },
+    "97": {
+      "first_verse_key": "4:114",
+      "last_verse_key": "4:121",
+      "from": "4:114",
+      "to": "4:121"
+    },
+    "98": {
+      "first_verse_key": "4:122",
+      "last_verse_key": "4:127",
+      "from": "4:122",
+      "to": "4:127"
+    },
+    "99": {
+      "first_verse_key": "4:128",
+      "last_verse_key": "4:134",
+      "from": "4:128",
+      "to": "4:134"
+    },
+    "100": {
+      "first_verse_key": "4:135",
+      "last_verse_key": "4:140",
+      "from": "4:135",
+      "to": "4:140"
+    },
+    "101": {
+      "first_verse_key": "4:141",
+      "last_verse_key": "4:147",
+      "from": "4:141",
+      "to": "4:147"
+    },
+    "102": {
+      "first_verse_key": "4:148",
+      "last_verse_key": "4:154",
+      "from": "4:148",
+      "to": "4:154"
+    },
+    "103": {
+      "first_verse_key": "4:155",
+      "last_verse_key": "4:162",
+      "from": "4:155",
+      "to": "4:162"
+    },
+    "104": {
+      "first_verse_key": "4:163",
+      "last_verse_key": "4:170",
+      "from": "4:163",
+      "to": "4:170"
+    },
+    "105": {
+      "first_verse_key": "4:171",
+      "last_verse_key": "4:175",
+      "from": "4:171",
+      "to": "4:175"
+    },
+    "106": {
+      "first_verse_key": "4:176",
+      "last_verse_key": "5:2",
+      "from": "4:176",
+      "to": "5:2"
+    },
+    "107": {
+      "first_verse_key": "5:3",
+      "last_verse_key": "5:5",
+      "from": "5:3",
+      "to": "5:5"
+    },
+    "108": {
+      "first_verse_key": "5:6",
+      "last_verse_key": "5:9",
+      "from": "5:6",
+      "to": "5:9"
+    },
+    "109": {
+      "first_verse_key": "5:10",
+      "last_verse_key": "5:13",
+      "from": "5:10",
+      "to": "5:13"
+    },
+    "110": {
+      "first_verse_key": "5:14",
+      "last_verse_key": "5:17",
+      "from": "5:14",
+      "to": "5:17"
+    },
+    "111": {
+      "first_verse_key": "5:18",
+      "last_verse_key": "5:23",
+      "from": "5:18",
+      "to": "5:23"
+    },
+    "112": {
+      "first_verse_key": "5:24",
+      "last_verse_key": "5:31",
+      "from": "5:24",
+      "to": "5:31"
+    },
+    "113": {
+      "first_verse_key": "5:32",
+      "last_verse_key": "5:36",
+      "from": "5:32",
+      "to": "5:36"
+    },
+    "114": {
+      "first_verse_key": "5:37",
+      "last_verse_key": "5:41",
+      "from": "5:37",
+      "to": "5:41"
+    },
+    "115": {
+      "first_verse_key": "5:42",
+      "last_verse_key": "5:45",
+      "from": "5:42",
+      "to": "5:45"
+    },
+    "116": {
+      "first_verse_key": "5:46",
+      "last_verse_key": "5:50",
+      "from": "5:46",
+      "to": "5:50"
+    },
+    "117": {
+      "first_verse_key": "5:51",
+      "last_verse_key": "5:57",
+      "from": "5:51",
+      "to": "5:57"
+    },
+    "118": {
+      "first_verse_key": "5:58",
+      "last_verse_key": "5:64",
+      "from": "5:58",
+      "to": "5:64"
+    },
+    "119": {
+      "first_verse_key": "5:65",
+      "last_verse_key": "5:70",
+      "from": "5:65",
+      "to": "5:70"
+    },
+    "120": {
+      "first_verse_key": "5:71",
+      "last_verse_key": "5:77",
+      "from": "5:71",
+      "to": "5:77"
+    },
+    "121": {
+      "first_verse_key": "5:78",
+      "last_verse_key": "5:83",
+      "from": "5:78",
+      "to": "5:83"
+    },
+    "122": {
+      "first_verse_key": "5:84",
+      "last_verse_key": "5:90",
+      "from": "5:84",
+      "to": "5:90"
+    },
+    "123": {
+      "first_verse_key": "5:91",
+      "last_verse_key": "5:95",
+      "from": "5:91",
+      "to": "5:95"
+    },
+    "124": {
+      "first_verse_key": "5:96",
+      "last_verse_key": "5:103",
+      "from": "5:96",
+      "to": "5:103"
+    },
+    "125": {
+      "first_verse_key": "5:104",
+      "last_verse_key": "5:108",
+      "from": "5:104",
+      "to": "5:108"
+    },
+    "126": {
+      "first_verse_key": "5:109",
+      "last_verse_key": "5:113",
+      "from": "5:109",
+      "to": "5:113"
+    },
+    "127": {
+      "first_verse_key": "5:114",
+      "last_verse_key": "5:120",
+      "from": "5:114",
+      "to": "5:120"
+    },
+    "128": {
+      "first_verse_key": "6:1",
+      "last_verse_key": "6:8",
+      "from": "6:1",
+      "to": "6:8"
+    },
+    "129": {
+      "first_verse_key": "6:9",
+      "last_verse_key": "6:18",
+      "from": "6:12",
+      "to": "6:18"
+    },
+    "130": {
+      "first_verse_key": "6:19",
+      "last_verse_key": "6:27",
+      "from": "6:19",
+      "to": "6:27"
+    },
+    "131": {
+      "first_verse_key": "6:28",
+      "last_verse_key": "6:35",
+      "from": "6:28",
+      "to": "6:35"
+    },
+    "132": {
+      "first_verse_key": "6:36",
+      "last_verse_key": "6:44",
+      "from": "6:36",
+      "to": "6:44"
+    },
+    "133": {
+      "first_verse_key": "6:45",
+      "last_verse_key": "6:52",
+      "from": "6:45",
+      "to": "6:52"
+    },
+    "134": {
+      "first_verse_key": "6:53",
+      "last_verse_key": "6:59",
+      "from": "6:53",
+      "to": "6:59"
+    },
+    "135": {
+      "first_verse_key": "6:60",
+      "last_verse_key": "6:68",
+      "from": "6:60",
+      "to": "6:68"
+    },
+    "136": {
+      "first_verse_key": "6:69",
+      "last_verse_key": "6:73",
+      "from": "6:69",
+      "to": "6:73"
+    },
+    "137": {
+      "first_verse_key": "6:74",
+      "last_verse_key": "6:81",
+      "from": "6:74",
+      "to": "6:81"
+    },
+    "138": {
+      "first_verse_key": "6:82",
+      "last_verse_key": "6:90",
+      "from": "6:82",
+      "to": "6:90"
+    },
+    "139": {
+      "first_verse_key": "6:91",
+      "last_verse_key": "6:94",
+      "from": "6:91",
+      "to": "6:94"
+    },
+    "140": {
+      "first_verse_key": "6:95",
+      "last_verse_key": "6:101",
+      "from": "6:95",
+      "to": "6:101"
+    },
+    "141": {
+      "first_verse_key": "6:102",
+      "last_verse_key": "6:110",
+      "from": "6:102",
+      "to": "6:110"
+    },
+    "142": {
+      "first_verse_key": "6:111",
+      "last_verse_key": "6:118",
+      "from": "6:111",
+      "to": "6:118"
+    },
+    "143": {
+      "first_verse_key": "6:119",
+      "last_verse_key": "6:124",
+      "from": "6:119",
+      "to": "6:124"
+    },
+    "144": {
+      "first_verse_key": "6:125",
+      "last_verse_key": "6:130",
+      "from": "6:125",
+      "to": "6:130"
+    },
+    "145": {
+      "first_verse_key": "6:131",
+      "last_verse_key": "6:137",
+      "from": "6:131",
+      "to": "6:137"
+    },
+    "146": {
+      "first_verse_key": "6:138",
+      "last_verse_key": "6:142",
+      "from": "6:138",
+      "to": "6:142"
+    },
+    "147": {
+      "first_verse_key": "6:143",
+      "last_verse_key": "6:146",
+      "from": "6:143",
+      "to": "6:146"
+    },
+    "148": {
+      "first_verse_key": "6:147",
+      "last_verse_key": "6:151",
+      "from": "6:147",
+      "to": "6:151"
+    },
+    "149": {
+      "first_verse_key": "6:152",
+      "last_verse_key": "6:157",
+      "from": "6:152",
+      "to": "6:157"
+    },
+    "150": {
+      "first_verse_key": "6:158",
+      "last_verse_key": "6:165",
+      "from": "6:158",
+      "to": "6:165"
+    },
+    "151": {
+      "first_verse_key": "7:1",
+      "last_verse_key": "7:11",
+      "from": "7:1",
+      "to": "7:11"
+    },
+    "152": {
+      "first_verse_key": "7:12",
+      "last_verse_key": "7:22",
+      "from": "7:12",
+      "to": "7:22"
+    },
+    "153": {
+      "first_verse_key": "7:23",
+      "last_verse_key": "7:30",
+      "from": "7:23",
+      "to": "7:30"
+    },
+    "154": {
+      "first_verse_key": "7:31",
+      "last_verse_key": "7:37",
+      "from": "7:31",
+      "to": "7:37"
+    },
+    "155": {
+      "first_verse_key": "7:38",
+      "last_verse_key": "7:43",
+      "from": "7:38",
+      "to": "7:43"
+    },
+    "156": {
+      "first_verse_key": "7:44",
+      "last_verse_key": "7:51",
+      "from": "7:44",
+      "to": "7:51"
+    },
+    "157": {
+      "first_verse_key": "7:52",
+      "last_verse_key": "7:57",
+      "from": "7:52",
+      "to": "7:57"
+    },
+    "158": {
+      "first_verse_key": "7:58",
+      "last_verse_key": "7:67",
+      "from": "7:58",
+      "to": "7:67"
+    },
+    "159": {
+      "first_verse_key": "7:68",
+      "last_verse_key": "7:73",
+      "from": "7:68",
+      "to": "7:73"
+    },
+    "160": {
+      "first_verse_key": "7:74",
+      "last_verse_key": "7:81",
+      "from": "7:74",
+      "to": "7:81"
+    },
+    "161": {
+      "first_verse_key": "7:82",
+      "last_verse_key": "7:87",
+      "from": "7:82",
+      "to": "7:87"
+    },
+    "162": {
+      "first_verse_key": "7:88",
+      "last_verse_key": "7:95",
+      "from": "7:88",
+      "to": "7:95"
+    },
+    "163": {
+      "first_verse_key": "7:96",
+      "last_verse_key": "7:104",
+      "from": "7:96",
+      "to": "7:104"
+    },
+    "164": {
+      "first_verse_key": "7:105",
+      "last_verse_key": "7:120",
+      "from": "7:105",
+      "to": "7:120"
+    },
+    "165": {
+      "first_verse_key": "7:121",
+      "last_verse_key": "7:130",
+      "from": "7:121",
+      "to": "7:130"
+    },
+    "166": {
+      "first_verse_key": "7:131",
+      "last_verse_key": "7:137",
+      "from": "7:131",
+      "to": "7:137"
+    },
+    "167": {
+      "first_verse_key": "7:138",
+      "last_verse_key": "7:143",
+      "from": "7:138",
+      "to": "7:143"
+    },
+    "168": {
+      "first_verse_key": "7:144",
+      "last_verse_key": "7:149",
+      "from": "7:144",
+      "to": "7:149"
+    },
+    "169": {
+      "first_verse_key": "7:150",
+      "last_verse_key": "7:155",
+      "from": "7:150",
+      "to": "7:155"
+    },
+    "170": {
+      "first_verse_key": "7:156",
+      "last_verse_key": "7:159",
+      "from": "7:156",
+      "to": "7:159"
+    },
+    "171": {
+      "first_verse_key": "7:160",
+      "last_verse_key": "7:163",
+      "from": "7:160",
+      "to": "7:163"
+    },
+    "172": {
+      "first_verse_key": "7:164",
+      "last_verse_key": "7:170",
+      "from": "7:164",
+      "to": "7:170"
+    },
+    "173": {
+      "first_verse_key": "7:171",
+      "last_verse_key": "7:178",
+      "from": "7:171",
+      "to": "7:178"
+    },
+    "174": {
+      "first_verse_key": "7:179",
+      "last_verse_key": "7:187",
+      "from": "7:179",
+      "to": "7:187"
+    },
+    "175": {
+      "first_verse_key": "7:188",
+      "last_verse_key": "7:195",
+      "from": "7:188",
+      "to": "7:195"
+    },
+    "176": {
+      "first_verse_key": "7:196",
+      "last_verse_key": "7:206",
+      "from": "7:196",
+      "to": "7:206"
+    },
+    "177": {
+      "first_verse_key": "8:1",
+      "last_verse_key": "8:8",
+      "from": "8:1",
+      "to": "8:8"
+    },
+    "178": {
+      "first_verse_key": "8:9",
+      "last_verse_key": "8:16",
+      "from": "8:9",
+      "to": "8:16"
+    },
+    "179": {
+      "first_verse_key": "8:17",
+      "last_verse_key": "8:25",
+      "from": "8:17",
+      "to": "8:25"
+    },
+    "180": {
+      "first_verse_key": "8:26",
+      "last_verse_key": "8:33",
+      "from": "8:26",
+      "to": "8:33"
+    },
+    "181": {
+      "first_verse_key": "8:34",
+      "last_verse_key": "8:40",
+      "from": "8:34",
+      "to": "8:40"
+    },
+    "182": {
+      "first_verse_key": "8:41",
+      "last_verse_key": "8:45",
+      "from": "8:41",
+      "to": "8:45"
+    },
+    "183": {
+      "first_verse_key": "8:46",
+      "last_verse_key": "8:52",
+      "from": "8:46",
+      "to": "8:52"
+    },
+    "184": {
+      "first_verse_key": "8:53",
+      "last_verse_key": "8:61",
+      "from": "8:53",
+      "to": "8:61"
+    },
+    "185": {
+      "first_verse_key": "8:62",
+      "last_verse_key": "8:69",
+      "from": "8:62",
+      "to": "8:69"
+    },
+    "186": {
+      "first_verse_key": "8:70",
+      "last_verse_key": "8:75",
+      "from": "8:70",
+      "to": "8:75"
+    },
+    "187": {
+      "first_verse_key": "9:1",
+      "last_verse_key": "9:6",
+      "from": "9:1",
+      "to": "9:6"
+    },
+    "188": {
+      "first_verse_key": "9:7",
+      "last_verse_key": "9:13",
+      "from": "9:7",
+      "to": "9:13"
+    },
+    "189": {
+      "first_verse_key": "9:14",
+      "last_verse_key": "9:20",
+      "from": "9:14",
+      "to": "9:20"
+    },
+    "190": {
+      "first_verse_key": "9:21",
+      "last_verse_key": "9:26",
+      "from": "9:21",
+      "to": "9:26"
+    },
+    "191": {
+      "first_verse_key": "9:27",
+      "last_verse_key": "9:31",
+      "from": "9:27",
+      "to": "9:31"
+    },
+    "192": {
+      "first_verse_key": "9:32",
+      "last_verse_key": "9:36",
+      "from": "9:32",
+      "to": "9:36"
+    },
+    "193": {
+      "first_verse_key": "9:37",
+      "last_verse_key": "9:40",
+      "from": "9:37",
+      "to": "9:40"
+    },
+    "194": {
+      "first_verse_key": "9:41",
+      "last_verse_key": "9:47",
+      "from": "9:41",
+      "to": "9:47"
+    },
+    "195": {
+      "first_verse_key": "9:48",
+      "last_verse_key": "9:54",
+      "from": "9:48",
+      "to": "9:54"
+    },
+    "196": {
+      "first_verse_key": "9:55",
+      "last_verse_key": "9:61",
+      "from": "9:55",
+      "to": "9:61"
+    },
+    "197": {
+      "first_verse_key": "9:62",
+      "last_verse_key": "9:68",
+      "from": "9:62",
+      "to": "9:68"
+    },
+    "198": {
+      "first_verse_key": "9:69",
+      "last_verse_key": "9:72",
+      "from": "9:69",
+      "to": "9:72"
+    },
+    "199": {
+      "first_verse_key": "9:73",
+      "last_verse_key": "9:79",
+      "from": "9:73",
+      "to": "9:79"
+    },
+    "200": {
+      "first_verse_key": "9:80",
+      "last_verse_key": "9:86",
+      "from": "9:80",
+      "to": "9:86"
+    },
+    "201": {
+      "first_verse_key": "9:87",
+      "last_verse_key": "9:93",
+      "from": "9:87",
+      "to": "9:93"
+    },
+    "202": {
+      "first_verse_key": "9:94",
+      "last_verse_key": "9:99",
+      "from": "9:94",
+      "to": "9:99"
+    },
+    "203": {
+      "first_verse_key": "9:100",
+      "last_verse_key": "9:106",
+      "from": "9:100",
+      "to": "9:106"
+    },
+    "204": {
+      "first_verse_key": "9:107",
+      "last_verse_key": "9:111",
+      "from": "9:107",
+      "to": "9:111"
+    },
+    "205": {
+      "first_verse_key": "9:112",
+      "last_verse_key": "9:117",
+      "from": "9:112",
+      "to": "9:117"
+    },
+    "206": {
+      "first_verse_key": "9:118",
+      "last_verse_key": "9:122",
+      "from": "9:118",
+      "to": "9:122"
+    },
+    "207": {
+      "first_verse_key": "9:123",
+      "last_verse_key": "9:129",
+      "from": "9:123",
+      "to": "9:129"
+    },
+    "208": {
+      "first_verse_key": "10:1",
+      "last_verse_key": "10:6",
+      "from": "10:1",
+      "to": "10:6"
+    },
+    "209": {
+      "first_verse_key": "10:7",
+      "last_verse_key": "10:14",
+      "from": "10:7",
+      "to": "10:14"
+    },
+    "210": {
+      "first_verse_key": "10:15",
+      "last_verse_key": "10:20",
+      "from": "10:15",
+      "to": "10:20"
+    },
+    "211": {
+      "first_verse_key": "10:21",
+      "last_verse_key": "10:25",
+      "from": "10:21",
+      "to": "10:25"
+    },
+    "212": {
+      "first_verse_key": "10:26",
+      "last_verse_key": "10:33",
+      "from": "10:26",
+      "to": "10:33"
+    },
+    "213": {
+      "first_verse_key": "10:34",
+      "last_verse_key": "10:42",
+      "from": "10:34",
+      "to": "10:42"
+    },
+    "214": {
+      "first_verse_key": "10:43",
+      "last_verse_key": "10:53",
+      "from": "10:43",
+      "to": "10:53"
+    },
+    "215": {
+      "first_verse_key": "10:54",
+      "last_verse_key": "10:61",
+      "from": "10:54",
+      "to": "10:61"
+    },
+    "216": {
+      "first_verse_key": "10:62",
+      "last_verse_key": "10:70",
+      "from": "10:62",
+      "to": "10:70"
+    },
+    "217": {
+      "first_verse_key": "10:71",
+      "last_verse_key": "10:78",
+      "from": "10:71",
+      "to": "10:78"
+    },
+    "218": {
+      "first_verse_key": "10:79",
+      "last_verse_key": "10:88",
+      "from": "10:79",
+      "to": "10:88"
+    },
+    "219": {
+      "first_verse_key": "10:89",
+      "last_verse_key": "10:97",
+      "from": "10:89",
+      "to": "10:97"
+    },
+    "220": {
+      "first_verse_key": "10:98",
+      "last_verse_key": "10:106",
+      "from": "10:98",
+      "to": "10:106"
+    },
+    "221": {
+      "first_verse_key": "10:107",
+      "last_verse_key": "11:5",
+      "from": "10:107",
+      "to": "11:5"
+    },
+    "222": {
+      "first_verse_key": "11:6",
+      "last_verse_key": "11:12",
+      "from": "11:6",
+      "to": "11:12"
+    },
+    "223": {
+      "first_verse_key": "11:13",
+      "last_verse_key": "11:19",
+      "from": "11:13",
+      "to": "11:19"
+    },
+    "224": {
+      "first_verse_key": "11:20",
+      "last_verse_key": "11:28",
+      "from": "11:20",
+      "to": "11:28"
+    },
+    "225": {
+      "first_verse_key": "11:29",
+      "last_verse_key": "11:37",
+      "from": "11:29",
+      "to": "11:37"
+    },
+    "226": {
+      "first_verse_key": "11:38",
+      "last_verse_key": "11:45",
+      "from": "11:38",
+      "to": "11:45"
+    },
+    "227": {
+      "first_verse_key": "11:46",
+      "last_verse_key": "11:53",
+      "from": "11:46",
+      "to": "11:53"
+    },
+    "228": {
+      "first_verse_key": "11:54",
+      "last_verse_key": "11:62",
+      "from": "11:54",
+      "to": "11:62"
+    },
+    "229": {
+      "first_verse_key": "11:63",
+      "last_verse_key": "11:71",
+      "from": "11:63",
+      "to": "11:71"
+    },
+    "230": {
+      "first_verse_key": "11:72",
+      "last_verse_key": "11:81",
+      "from": "11:72",
+      "to": "11:81"
+    },
+    "231": {
+      "first_verse_key": "11:82",
+      "last_verse_key": "11:88",
+      "from": "11:82",
+      "to": "11:88"
+    },
+    "232": {
+      "first_verse_key": "11:89",
+      "last_verse_key": "11:97",
+      "from": "11:89",
+      "to": "11:97"
+    },
+    "233": {
+      "first_verse_key": "11:98",
+      "last_verse_key": "11:108",
+      "from": "11:98",
+      "to": "11:108"
+    },
+    "234": {
+      "first_verse_key": "11:109",
+      "last_verse_key": "11:117",
+      "from": "11:109",
+      "to": "11:117"
+    },
+    "235": {
+      "first_verse_key": "11:118",
+      "last_verse_key": "12:4",
+      "from": "11:118",
+      "to": "12:4"
+    },
+    "236": {
+      "first_verse_key": "12:5",
+      "last_verse_key": "12:14",
+      "from": "12:5",
+      "to": "12:14"
+    },
+    "237": {
+      "first_verse_key": "12:15",
+      "last_verse_key": "12:22",
+      "from": "12:15",
+      "to": "12:22"
+    },
+    "238": {
+      "first_verse_key": "12:23",
+      "last_verse_key": "12:30",
+      "from": "12:23",
+      "to": "12:30"
+    },
+    "239": {
+      "first_verse_key": "12:31",
+      "last_verse_key": "12:37",
+      "from": "12:31",
+      "to": "12:37"
+    },
+    "240": {
+      "first_verse_key": "12:38",
+      "last_verse_key": "12:43",
+      "from": "12:38",
+      "to": "12:43"
+    },
+    "241": {
+      "first_verse_key": "12:44",
+      "last_verse_key": "12:52",
+      "from": "12:44",
+      "to": "12:52"
+    },
+    "242": {
+      "first_verse_key": "12:53",
+      "last_verse_key": "12:63",
+      "from": "12:53",
+      "to": "12:63"
+    },
+    "243": {
+      "first_verse_key": "12:64",
+      "last_verse_key": "12:69",
+      "from": "12:64",
+      "to": "12:69"
+    },
+    "244": {
+      "first_verse_key": "12:70",
+      "last_verse_key": "12:78",
+      "from": "12:70",
+      "to": "12:78"
+    },
+    "245": {
+      "first_verse_key": "12:79",
+      "last_verse_key": "12:86",
+      "from": "12:79",
+      "to": "12:86"
+    },
+    "246": {
+      "first_verse_key": "12:87",
+      "last_verse_key": "12:95",
+      "from": "12:87",
+      "to": "12:95"
+    },
+    "247": {
+      "first_verse_key": "12:96",
+      "last_verse_key": "12:103",
+      "from": "12:96",
+      "to": "12:103"
+    },
+    "248": {
+      "first_verse_key": "12:104",
+      "last_verse_key": "12:111",
+      "from": "12:104",
+      "to": "12:111"
+    },
+    "249": {
+      "first_verse_key": "13:1",
+      "last_verse_key": "13:5",
+      "from": "13:1",
+      "to": "13:5"
+    },
+    "250": {
+      "first_verse_key": "13:6",
+      "last_verse_key": "13:13",
+      "from": "13:6",
+      "to": "13:13"
+    },
+    "251": {
+      "first_verse_key": "13:14",
+      "last_verse_key": "13:18",
+      "from": "13:14",
+      "to": "13:18"
+    },
+    "252": {
+      "first_verse_key": "13:19",
+      "last_verse_key": "13:28",
+      "from": "13:19",
+      "to": "13:28"
+    },
+    "253": {
+      "first_verse_key": "13:29",
+      "last_verse_key": "13:34",
+      "from": "13:29",
+      "to": "13:34"
+    },
+    "254": {
+      "first_verse_key": "13:35",
+      "last_verse_key": "13:42",
+      "from": "13:35",
+      "to": "13:42"
+    },
+    "255": {
+      "first_verse_key": "13:43",
+      "last_verse_key": "14:5",
+      "from": "13:43",
+      "to": "14:5"
+    },
+    "256": {
+      "first_verse_key": "14:6",
+      "last_verse_key": "14:10",
+      "from": "14:6",
+      "to": "14:10"
+    },
+    "257": {
+      "first_verse_key": "14:11",
+      "last_verse_key": "14:18",
+      "from": "14:11",
+      "to": "14:18"
+    },
+    "258": {
+      "first_verse_key": "14:19",
+      "last_verse_key": "14:24",
+      "from": "14:19",
+      "to": "14:24"
+    },
+    "259": {
+      "first_verse_key": "14:25",
+      "last_verse_key": "14:33",
+      "from": "14:25",
+      "to": "14:33"
+    },
+    "260": {
+      "first_verse_key": "14:34",
+      "last_verse_key": "14:42",
+      "from": "14:34",
+      "to": "14:42"
+    },
+    "261": {
+      "first_verse_key": "14:43",
+      "last_verse_key": "14:52",
+      "from": "14:43",
+      "to": "14:52"
+    },
+    "262": {
+      "first_verse_key": "15:1",
+      "last_verse_key": "15:15",
+      "from": "15:1",
+      "to": "15:15"
+    },
+    "263": {
+      "first_verse_key": "15:16",
+      "last_verse_key": "15:31",
+      "from": "15:16",
+      "to": "15:31"
+    },
+    "264": {
+      "first_verse_key": "15:32",
+      "last_verse_key": "15:51",
+      "from": "15:32",
+      "to": "15:51"
+    },
+    "265": {
+      "first_verse_key": "15:52",
+      "last_verse_key": "15:70",
+      "from": "15:52",
+      "to": "15:70"
+    },
+    "266": {
+      "first_verse_key": "15:71",
+      "last_verse_key": "15:90",
+      "from": "15:71",
+      "to": "15:90"
+    },
+    "267": {
+      "first_verse_key": "15:91",
+      "last_verse_key": "16:6",
+      "from": "15:91",
+      "to": "16:6"
+    },
+    "268": {
+      "first_verse_key": "16:7",
+      "last_verse_key": "16:14",
+      "from": "16:7",
+      "to": "16:14"
+    },
+    "269": {
+      "first_verse_key": "16:15",
+      "last_verse_key": "16:26",
+      "from": "16:15",
+      "to": "16:26"
+    },
+    "270": {
+      "first_verse_key": "16:27",
+      "last_verse_key": "16:34",
+      "from": "16:27",
+      "to": "16:34"
+    },
+    "271": {
+      "first_verse_key": "16:35",
+      "last_verse_key": "16:42",
+      "from": "16:35",
+      "to": "16:42"
+    },
+    "272": {
+      "first_verse_key": "16:43",
+      "last_verse_key": "16:54",
+      "from": "16:43",
+      "to": "16:54"
+    },
+    "273": {
+      "first_verse_key": "16:55",
+      "last_verse_key": "16:64",
+      "from": "16:55",
+      "to": "16:64"
+    },
+    "274": {
+      "first_verse_key": "16:65",
+      "last_verse_key": "16:72",
+      "from": "16:65",
+      "to": "16:72"
+    },
+    "275": {
+      "first_verse_key": "16:73",
+      "last_verse_key": "16:79",
+      "from": "16:73",
+      "to": "16:79"
+    },
+    "276": {
+      "first_verse_key": "16:80",
+      "last_verse_key": "16:87",
+      "from": "16:80",
+      "to": "16:87"
+    },
+    "277": {
+      "first_verse_key": "16:88",
+      "last_verse_key": "16:93",
+      "from": "16:88",
+      "to": "16:93"
+    },
+    "278": {
+      "first_verse_key": "16:94",
+      "last_verse_key": "16:102",
+      "from": "16:100",
+      "to": "16:102"
+    },
+    "279": {
+      "first_verse_key": "16:103",
+      "last_verse_key": "16:110",
+      "from": "16:103",
+      "to": "16:110"
+    },
+    "280": {
+      "first_verse_key": "16:111",
+      "last_verse_key": "16:118",
+      "from": "16:111",
+      "to": "16:118"
+    },
+    "281": {
+      "first_verse_key": "16:119",
+      "last_verse_key": "16:128",
+      "from": "16:119",
+      "to": "16:128"
+    },
+    "282": {
+      "first_verse_key": "17:1",
+      "last_verse_key": "17:7",
+      "from": "17:1",
+      "to": "17:7"
+    },
+    "283": {
+      "first_verse_key": "17:8",
+      "last_verse_key": "17:17",
+      "from": "17:8",
+      "to": "17:17"
+    },
+    "284": {
+      "first_verse_key": "17:18",
+      "last_verse_key": "17:27",
+      "from": "17:18",
+      "to": "17:27"
+    },
+    "285": {
+      "first_verse_key": "17:28",
+      "last_verse_key": "17:38",
+      "from": "17:28",
+      "to": "17:38"
+    },
+    "286": {
+      "first_verse_key": "17:39",
+      "last_verse_key": "17:49",
+      "from": "17:39",
+      "to": "17:49"
+    },
+    "287": {
+      "first_verse_key": "17:50",
+      "last_verse_key": "17:58",
+      "from": "17:50",
+      "to": "17:58"
+    },
+    "288": {
+      "first_verse_key": "17:59",
+      "last_verse_key": "17:66",
+      "from": "17:59",
+      "to": "17:66"
+    },
+    "289": {
+      "first_verse_key": "17:67",
+      "last_verse_key": "17:75",
+      "from": "17:67",
+      "to": "17:75"
+    },
+    "290": {
+      "first_verse_key": "17:76",
+      "last_verse_key": "17:86",
+      "from": "17:76",
+      "to": "17:86"
+    },
+    "291": {
+      "first_verse_key": "17:87",
+      "last_verse_key": "17:96",
+      "from": "17:87",
+      "to": "17:96"
+    },
+    "292": {
+      "first_verse_key": "17:97",
+      "last_verse_key": "17:104",
+      "from": "17:97",
+      "to": "17:104"
+    },
+    "293": {
+      "first_verse_key": "17:105",
+      "last_verse_key": "18:4",
+      "from": "17:105",
+      "to": "18:4"
+    },
+    "294": {
+      "first_verse_key": "18:5",
+      "last_verse_key": "18:15",
+      "from": "18:5",
+      "to": "18:15"
+    },
+    "295": {
+      "first_verse_key": "18:16",
+      "last_verse_key": "18:20",
+      "from": "18:16",
+      "to": "18:20"
+    },
+    "296": {
+      "first_verse_key": "18:21",
+      "last_verse_key": "18:27",
+      "from": "18:21",
+      "to": "18:27"
+    },
+    "297": {
+      "first_verse_key": "18:28",
+      "last_verse_key": "18:34",
+      "from": "18:28",
+      "to": "18:34"
+    },
+    "298": {
+      "first_verse_key": "18:35",
+      "last_verse_key": "18:45",
+      "from": "18:35",
+      "to": "18:45"
+    },
+    "299": {
+      "first_verse_key": "18:46",
+      "last_verse_key": "18:53",
+      "from": "18:46",
+      "to": "18:53"
+    },
+    "300": {
+      "first_verse_key": "18:54",
+      "last_verse_key": "18:61",
+      "from": "18:54",
+      "to": "18:61"
+    },
+    "301": {
+      "first_verse_key": "18:62",
+      "last_verse_key": "18:74",
+      "from": "18:62",
+      "to": "18:74"
+    },
+    "302": {
+      "first_verse_key": "18:75",
+      "last_verse_key": "18:83",
+      "from": "18:75",
+      "to": "18:83"
+    },
+    "303": {
+      "first_verse_key": "18:84",
+      "last_verse_key": "18:97",
+      "from": "18:84",
+      "to": "18:97"
+    },
+    "304": {
+      "first_verse_key": "18:98",
+      "last_verse_key": "18:110",
+      "from": "18:98",
+      "to": "18:110"
+    },
+    "305": {
+      "first_verse_key": "19:1",
+      "last_verse_key": "19:11",
+      "from": "19:1",
+      "to": "19:11"
+    },
+    "306": {
+      "first_verse_key": "19:12",
+      "last_verse_key": "19:25",
+      "from": "19:12",
+      "to": "19:25"
+    },
+    "307": {
+      "first_verse_key": "19:26",
+      "last_verse_key": "19:38",
+      "from": "19:26",
+      "to": "19:38"
+    },
+    "308": {
+      "first_verse_key": "19:39",
+      "last_verse_key": "19:51",
+      "from": "19:39",
+      "to": "19:51"
+    },
+    "309": {
+      "first_verse_key": "19:52",
+      "last_verse_key": "19:64",
+      "from": "19:52",
+      "to": "19:64"
+    },
+    "310": {
+      "first_verse_key": "19:65",
+      "last_verse_key": "19:76",
+      "from": "19:65",
+      "to": "19:76"
+    },
+    "311": {
+      "first_verse_key": "19:77",
+      "last_verse_key": "19:95",
+      "from": "19:77",
+      "to": "19:95"
+    },
+    "312": {
+      "first_verse_key": "19:96",
+      "last_verse_key": "20:12",
+      "from": "19:96",
+      "to": "20:12"
+    },
+    "313": {
+      "first_verse_key": "20:13",
+      "last_verse_key": "20:37",
+      "from": "20:13",
+      "to": "20:37"
+    },
+    "314": {
+      "first_verse_key": "20:38",
+      "last_verse_key": "20:51",
+      "from": "20:38",
+      "to": "20:51"
+    },
+    "315": {
+      "first_verse_key": "20:52",
+      "last_verse_key": "20:64",
+      "from": "20:53",
+      "to": "20:64"
+    },
+    "316": {
+      "first_verse_key": "20:65",
+      "last_verse_key": "20:76",
+      "from": "20:65",
+      "to": "20:76"
+    },
+    "317": {
+      "first_verse_key": "20:77",
+      "last_verse_key": "20:87",
+      "from": "20:77",
+      "to": "20:87"
+    },
+    "318": {
+      "first_verse_key": "20:88",
+      "last_verse_key": "20:98",
+      "from": "20:88",
+      "to": "20:98"
+    },
+    "319": {
+      "first_verse_key": "20:99",
+      "last_verse_key": "20:113",
+      "from": "20:99",
+      "to": "20:113"
+    },
+    "320": {
+      "first_verse_key": "20:114",
+      "last_verse_key": "20:125",
+      "from": "20:114",
+      "to": "20:125"
+    },
+    "321": {
+      "first_verse_key": "20:126",
+      "last_verse_key": "20:135",
+      "from": "20:126",
+      "to": "20:135"
+    },
+    "322": {
+      "first_verse_key": "21:1",
+      "last_verse_key": "21:10",
+      "from": "21:1",
+      "to": "21:10"
+    },
+    "323": {
+      "first_verse_key": "21:11",
+      "last_verse_key": "21:24",
+      "from": "21:11",
+      "to": "21:24"
+    },
+    "324": {
+      "first_verse_key": "21:25",
+      "last_verse_key": "21:35",
+      "from": "21:25",
+      "to": "21:35"
+    },
+    "325": {
+      "first_verse_key": "21:36",
+      "last_verse_key": "21:44",
+      "from": "21:36",
+      "to": "21:44"
+    },
+    "326": {
+      "first_verse_key": "21:45",
+      "last_verse_key": "21:57",
+      "from": "21:45",
+      "to": "21:57"
+    },
+    "327": {
+      "first_verse_key": "21:58",
+      "last_verse_key": "21:72",
+      "from": "21:58",
+      "to": "21:72"
+    },
+    "328": {
+      "first_verse_key": "21:73",
+      "last_verse_key": "21:81",
+      "from": "21:73",
+      "to": "21:81"
+    },
+    "329": {
+      "first_verse_key": "21:82",
+      "last_verse_key": "21:90",
+      "from": "21:82",
+      "to": "21:90"
+    },
+    "330": {
+      "first_verse_key": "21:91",
+      "last_verse_key": "21:101",
+      "from": "21:91",
+      "to": "21:101"
+    },
+    "331": {
+      "first_verse_key": "21:102",
+      "last_verse_key": "21:112",
+      "from": "21:102",
+      "to": "21:112"
+    },
+    "332": {
+      "first_verse_key": "22:1",
+      "last_verse_key": "22:5",
+      "from": "22:1",
+      "to": "22:5"
+    },
+    "333": {
+      "first_verse_key": "22:6",
+      "last_verse_key": "22:15",
+      "from": "22:6",
+      "to": "22:15"
+    },
+    "334": {
+      "first_verse_key": "22:16",
+      "last_verse_key": "22:23",
+      "from": "22:16",
+      "to": "22:23"
+    },
+    "335": {
+      "first_verse_key": "22:24",
+      "last_verse_key": "22:30",
+      "from": "22:24",
+      "to": "22:30"
+    },
+    "336": {
+      "first_verse_key": "22:31",
+      "last_verse_key": "22:38",
+      "from": "22:31",
+      "to": "22:38"
+    },
+    "337": {
+      "first_verse_key": "22:39",
+      "last_verse_key": "22:46",
+      "from": "22:39",
+      "to": "22:46"
+    },
+    "338": {
+      "first_verse_key": "22:47",
+      "last_verse_key": "22:55",
+      "from": "22:47",
+      "to": "22:55"
+    },
+    "339": {
+      "first_verse_key": "22:56",
+      "last_verse_key": "22:64",
+      "from": "22:56",
+      "to": "22:64"
+    },
+    "340": {
+      "first_verse_key": "22:65",
+      "last_verse_key": "22:72",
+      "from": "22:65",
+      "to": "22:72"
+    },
+    "341": {
+      "first_verse_key": "22:73",
+      "last_verse_key": "22:78",
+      "from": "22:73",
+      "to": "22:78"
+    },
+    "342": {
+      "first_verse_key": "23:1",
+      "last_verse_key": "23:17",
+      "from": "23:1",
+      "to": "23:17"
+    },
+    "343": {
+      "first_verse_key": "23:18",
+      "last_verse_key": "23:27",
+      "from": "23:18",
+      "to": "23:27"
+    },
+    "344": {
+      "first_verse_key": "23:28",
+      "last_verse_key": "23:42",
+      "from": "23:28",
+      "to": "23:42"
+    },
+    "345": {
+      "first_verse_key": "23:43",
+      "last_verse_key": "23:59",
+      "from": "23:43",
+      "to": "23:59"
+    },
+    "346": {
+      "first_verse_key": "23:60",
+      "last_verse_key": "23:74",
+      "from": "23:60",
+      "to": "23:74"
+    },
+    "347": {
+      "first_verse_key": "23:75",
+      "last_verse_key": "23:89",
+      "from": "23:75",
+      "to": "23:89"
+    },
+    "348": {
+      "first_verse_key": "23:90",
+      "last_verse_key": "23:104",
+      "from": "23:90",
+      "to": "23:104"
+    },
+    "349": {
+      "first_verse_key": "23:105",
+      "last_verse_key": "23:118",
+      "from": "23:105",
+      "to": "23:118"
+    },
+    "350": {
+      "first_verse_key": "24:1",
+      "last_verse_key": "24:10",
+      "from": "24:10",
+      "to": "24:10"
+    },
+    "351": {
+      "first_verse_key": "24:11",
+      "last_verse_key": "24:20",
+      "from": "24:11",
+      "to": "24:20"
+    },
+    "352": {
+      "first_verse_key": "24:21",
+      "last_verse_key": "24:27",
+      "from": "24:21",
+      "to": "24:27"
+    },
+    "353": {
+      "first_verse_key": "24:28",
+      "last_verse_key": "24:31",
+      "from": "24:28",
+      "to": "24:31"
+    },
+    "354": {
+      "first_verse_key": "24:32",
+      "last_verse_key": "24:36",
+      "from": "24:32",
+      "to": "24:36"
+    },
+    "355": {
+      "first_verse_key": "24:37",
+      "last_verse_key": "24:43",
+      "from": "24:37",
+      "to": "24:43"
+    },
+    "356": {
+      "first_verse_key": "24:44",
+      "last_verse_key": "24:53",
+      "from": "24:44",
+      "to": "24:53"
+    },
+    "357": {
+      "first_verse_key": "24:54",
+      "last_verse_key": "24:58",
+      "from": "24:54",
+      "to": "24:58"
+    },
+    "358": {
+      "first_verse_key": "24:59",
+      "last_verse_key": "24:61",
+      "from": "24:59",
+      "to": "24:61"
+    },
+    "359": {
+      "first_verse_key": "24:62",
+      "last_verse_key": "25:2",
+      "from": "24:62",
+      "to": "25:2"
+    },
+    "360": {
+      "first_verse_key": "25:3",
+      "last_verse_key": "25:11",
+      "from": "25:3",
+      "to": "25:11"
+    },
+    "361": {
+      "first_verse_key": "25:12",
+      "last_verse_key": "25:20",
+      "from": "25:12",
+      "to": "25:20"
+    },
+    "362": {
+      "first_verse_key": "25:21",
+      "last_verse_key": "25:32",
+      "from": "25:21",
+      "to": "25:32"
+    },
+    "363": {
+      "first_verse_key": "25:33",
+      "last_verse_key": "25:43",
+      "from": "25:33",
+      "to": "25:43"
+    },
+    "364": {
+      "first_verse_key": "25:44",
+      "last_verse_key": "25:55",
+      "from": "25:44",
+      "to": "25:55"
+    },
+    "365": {
+      "first_verse_key": "25:56",
+      "last_verse_key": "25:67",
+      "from": "25:56",
+      "to": "25:67"
+    },
+    "366": {
+      "first_verse_key": "25:68",
+      "last_verse_key": "25:77",
+      "from": "25:68",
+      "to": "25:77"
+    },
+    "367": {
+      "first_verse_key": "26:1",
+      "last_verse_key": "26:19",
+      "from": "26:1",
+      "to": "26:19"
+    },
+    "368": {
+      "first_verse_key": "26:20",
+      "last_verse_key": "26:39",
+      "from": "26:20",
+      "to": "26:39"
+    },
+    "369": {
+      "first_verse_key": "26:40",
+      "last_verse_key": "26:60",
+      "from": "26:40",
+      "to": "26:60"
+    },
+    "370": {
+      "first_verse_key": "26:61",
+      "last_verse_key": "26:83",
+      "from": "26:61",
+      "to": "26:83"
+    },
+    "371": {
+      "first_verse_key": "26:84",
+      "last_verse_key": "26:111",
+      "from": "26:84",
+      "to": "26:111"
+    },
+    "372": {
+      "first_verse_key": "26:112",
+      "last_verse_key": "26:136",
+      "from": "26:112",
+      "to": "26:136"
+    },
+    "373": {
+      "first_verse_key": "26:137",
+      "last_verse_key": "26:159",
+      "from": "26:137",
+      "to": "26:159"
+    },
+    "374": {
+      "first_verse_key": "26:160",
+      "last_verse_key": "26:183",
+      "from": "26:160",
+      "to": "26:183"
+    },
+    "375": {
+      "first_verse_key": "26:184",
+      "last_verse_key": "26:206",
+      "from": "26:184",
+      "to": "26:206"
+    },
+    "376": {
+      "first_verse_key": "26:207",
+      "last_verse_key": "26:227",
+      "from": "26:207",
+      "to": "26:227"
+    },
+    "377": {
+      "first_verse_key": "27:1",
+      "last_verse_key": "27:13",
+      "from": "27:1",
+      "to": "27:13"
+    },
+    "378": {
+      "first_verse_key": "27:14",
+      "last_verse_key": "27:22",
+      "from": "27:14",
+      "to": "27:22"
+    },
+    "379": {
+      "first_verse_key": "27:23",
+      "last_verse_key": "27:35",
+      "from": "27:23",
+      "to": "27:35"
+    },
+    "380": {
+      "first_verse_key": "27:36",
+      "last_verse_key": "27:44",
+      "from": "27:42",
+      "to": "27:44"
+    },
+    "381": {
+      "first_verse_key": "27:45",
+      "last_verse_key": "27:55",
+      "from": "27:45",
+      "to": "27:55"
+    },
+    "382": {
+      "first_verse_key": "27:56",
+      "last_verse_key": "27:63",
+      "from": "27:56",
+      "to": "27:63"
+    },
+    "383": {
+      "first_verse_key": "27:64",
+      "last_verse_key": "27:76",
+      "from": "27:64",
+      "to": "27:76"
+    },
+    "384": {
+      "first_verse_key": "27:77",
+      "last_verse_key": "27:88",
+      "from": "27:77",
+      "to": "27:88"
+    },
+    "385": {
+      "first_verse_key": "27:89",
+      "last_verse_key": "28:5",
+      "from": "27:89",
+      "to": "28:5"
+    },
+    "386": {
+      "first_verse_key": "28:6",
+      "last_verse_key": "28:13",
+      "from": "28:6",
+      "to": "28:13"
+    },
+    "387": {
+      "first_verse_key": "28:14",
+      "last_verse_key": "28:21",
+      "from": "28:14",
+      "to": "28:21"
+    },
+    "388": {
+      "first_verse_key": "28:22",
+      "last_verse_key": "28:28",
+      "from": "28:22",
+      "to": "28:28"
+    },
+    "389": {
+      "first_verse_key": "28:29",
+      "last_verse_key": "28:35",
+      "from": "28:29",
+      "to": "28:35"
+    },
+    "390": {
+      "first_verse_key": "28:36",
+      "last_verse_key": "28:43",
+      "from": "28:36",
+      "to": "28:43"
+    },
+    "391": {
+      "first_verse_key": "28:44",
+      "last_verse_key": "28:50",
+      "from": "28:44",
+      "to": "28:50"
+    },
+    "392": {
+      "first_verse_key": "28:51",
+      "last_verse_key": "28:59",
+      "from": "28:51",
+      "to": "28:59"
+    },
+    "393": {
+      "first_verse_key": "28:60",
+      "last_verse_key": "28:70",
+      "from": "28:60",
+      "to": "28:70"
+    },
+    "394": {
+      "first_verse_key": "28:71",
+      "last_verse_key": "28:77",
+      "from": "28:71",
+      "to": "28:77"
+    },
+    "395": {
+      "first_verse_key": "28:78",
+      "last_verse_key": "28:84",
+      "from": "28:78",
+      "to": "28:84"
+    },
+    "396": {
+      "first_verse_key": "28:85",
+      "last_verse_key": "29:6",
+      "from": "28:85",
+      "to": "29:6"
+    },
+    "397": {
+      "first_verse_key": "29:7",
+      "last_verse_key": "29:14",
+      "from": "29:7",
+      "to": "29:14"
+    },
+    "398": {
+      "first_verse_key": "29:15",
+      "last_verse_key": "29:23",
+      "from": "29:15",
+      "to": "29:23"
+    },
+    "399": {
+      "first_verse_key": "29:24",
+      "last_verse_key": "29:30",
+      "from": "29:24",
+      "to": "29:30"
+    },
+    "400": {
+      "first_verse_key": "29:31",
+      "last_verse_key": "29:38",
+      "from": "29:31",
+      "to": "29:38"
+    },
+    "401": {
+      "first_verse_key": "29:39",
+      "last_verse_key": "29:45",
+      "from": "29:39",
+      "to": "29:45"
+    },
+    "402": {
+      "first_verse_key": "29:46",
+      "last_verse_key": "29:52",
+      "from": "29:46",
+      "to": "29:52"
+    },
+    "403": {
+      "first_verse_key": "29:53",
+      "last_verse_key": "29:63",
+      "from": "29:53",
+      "to": "29:63"
+    },
+    "404": {
+      "first_verse_key": "29:64",
+      "last_verse_key": "30:5",
+      "from": "29:64",
+      "to": "30:5"
+    },
+    "405": {
+      "first_verse_key": "30:6",
+      "last_verse_key": "30:15",
+      "from": "30:6",
+      "to": "30:15"
+    },
+    "406": {
+      "first_verse_key": "30:16",
+      "last_verse_key": "30:24",
+      "from": "30:16",
+      "to": "30:24"
+    },
+    "407": {
+      "first_verse_key": "30:25",
+      "last_verse_key": "30:32",
+      "from": "30:25",
+      "to": "30:32"
+    },
+    "408": {
+      "first_verse_key": "30:33",
+      "last_verse_key": "30:41",
+      "from": "30:33",
+      "to": "30:41"
+    },
+    "409": {
+      "first_verse_key": "30:42",
+      "last_verse_key": "30:50",
+      "from": "30:42",
+      "to": "30:50"
+    },
+    "410": {
+      "first_verse_key": "30:51",
+      "last_verse_key": "30:60",
+      "from": "30:51",
+      "to": "30:60"
+    },
+    "411": {
+      "first_verse_key": "31:1",
+      "last_verse_key": "31:11",
+      "from": "31:1",
+      "to": "31:11"
+    },
+    "412": {
+      "first_verse_key": "31:12",
+      "last_verse_key": "31:19",
+      "from": "31:12",
+      "to": "31:19"
+    },
+    "413": {
+      "first_verse_key": "31:20",
+      "last_verse_key": "31:28",
+      "from": "31:20",
+      "to": "31:28"
+    },
+    "414": {
+      "first_verse_key": "31:29",
+      "last_verse_key": "31:34",
+      "from": "31:29",
+      "to": "31:34"
+    },
+    "415": {
+      "first_verse_key": "32:1",
+      "last_verse_key": "32:11",
+      "from": "32:1",
+      "to": "32:11"
+    },
+    "416": {
+      "first_verse_key": "32:12",
+      "last_verse_key": "32:20",
+      "from": "32:12",
+      "to": "32:20"
+    },
+    "417": {
+      "first_verse_key": "32:21",
+      "last_verse_key": "32:30",
+      "from": "32:21",
+      "to": "32:30"
+    },
+    "418": {
+      "first_verse_key": "33:1",
+      "last_verse_key": "33:6",
+      "from": "33:1",
+      "to": "33:6"
+    },
+    "419": {
+      "first_verse_key": "33:7",
+      "last_verse_key": "33:15",
+      "from": "33:7",
+      "to": "33:15"
+    },
+    "420": {
+      "first_verse_key": "33:16",
+      "last_verse_key": "33:22",
+      "from": "33:16",
+      "to": "33:22"
+    },
+    "421": {
+      "first_verse_key": "33:23",
+      "last_verse_key": "33:30",
+      "from": "33:23",
+      "to": "33:30"
+    },
+    "422": {
+      "first_verse_key": "33:31",
+      "last_verse_key": "33:35",
+      "from": "33:31",
+      "to": "33:35"
+    },
+    "423": {
+      "first_verse_key": "33:36",
+      "last_verse_key": "33:43",
+      "from": "33:36",
+      "to": "33:43"
+    },
+    "424": {
+      "first_verse_key": "33:44",
+      "last_verse_key": "33:50",
+      "from": "33:44",
+      "to": "33:50"
+    },
+    "425": {
+      "first_verse_key": "33:51",
+      "last_verse_key": "33:54",
+      "from": "33:51",
+      "to": "33:54"
+    },
+    "426": {
+      "first_verse_key": "33:55",
+      "last_verse_key": "33:62",
+      "from": "33:55",
+      "to": "33:62"
+    },
+    "427": {
+      "first_verse_key": "33:63",
+      "last_verse_key": "33:73",
+      "from": "33:68",
+      "to": "33:73"
+    },
+    "428": {
+      "first_verse_key": "34:1",
+      "last_verse_key": "34:7",
+      "from": "34:1",
+      "to": "34:7"
+    },
+    "429": {
+      "first_verse_key": "34:8",
+      "last_verse_key": "34:14",
+      "from": "34:8",
+      "to": "34:14"
+    },
+    "430": {
+      "first_verse_key": "34:15",
+      "last_verse_key": "34:22",
+      "from": "34:15",
+      "to": "34:22"
+    },
+    "431": {
+      "first_verse_key": "34:23",
+      "last_verse_key": "34:31",
+      "from": "34:23",
+      "to": "34:31"
+    },
+    "432": {
+      "first_verse_key": "34:32",
+      "last_verse_key": "34:39",
+      "from": "34:32",
+      "to": "34:39"
+    },
+    "433": {
+      "first_verse_key": "34:40",
+      "last_verse_key": "34:48",
+      "from": "34:40",
+      "to": "34:48"
+    },
+    "434": {
+      "first_verse_key": "34:49",
+      "last_verse_key": "35:3",
+      "from": "34:49",
+      "to": "35:3"
+    },
+    "435": {
+      "first_verse_key": "35:4",
+      "last_verse_key": "35:11",
+      "from": "35:4",
+      "to": "35:11"
+    },
+    "436": {
+      "first_verse_key": "35:12",
+      "last_verse_key": "35:18",
+      "from": "35:12",
+      "to": "35:18"
+    },
+    "437": {
+      "first_verse_key": "35:19",
+      "last_verse_key": "35:30",
+      "from": "35:19",
+      "to": "35:30"
+    },
+    "438": {
+      "first_verse_key": "35:31",
+      "last_verse_key": "35:38",
+      "from": "35:31",
+      "to": "35:38"
+    },
+    "439": {
+      "first_verse_key": "35:39",
+      "last_verse_key": "35:44",
+      "from": "35:39",
+      "to": "35:44"
+    },
+    "440": {
+      "first_verse_key": "35:45",
+      "last_verse_key": "36:12",
+      "from": "35:45",
+      "to": "36:12"
+    },
+    "441": {
+      "first_verse_key": "36:13",
+      "last_verse_key": "36:27",
+      "from": "36:13",
+      "to": "36:27"
+    },
+    "442": {
+      "first_verse_key": "36:28",
+      "last_verse_key": "36:40",
+      "from": "36:28",
+      "to": "36:40"
+    },
+    "443": {
+      "first_verse_key": "36:41",
+      "last_verse_key": "36:54",
+      "from": "36:41",
+      "to": "36:54"
+    },
+    "444": {
+      "first_verse_key": "36:55",
+      "last_verse_key": "36:70",
+      "from": "36:55",
+      "to": "36:70"
+    },
+    "445": {
+      "first_verse_key": "36:71",
+      "last_verse_key": "36:83",
+      "from": "36:71",
+      "to": "36:83"
+    },
+    "446": {
+      "first_verse_key": "37:1",
+      "last_verse_key": "37:24",
+      "from": "37:1",
+      "to": "37:24"
+    },
+    "447": {
+      "first_verse_key": "37:25",
+      "last_verse_key": "37:51",
+      "from": "37:25",
+      "to": "37:51"
+    },
+    "448": {
+      "first_verse_key": "37:52",
+      "last_verse_key": "37:76",
+      "from": "37:52",
+      "to": "37:76"
+    },
+    "449": {
+      "first_verse_key": "37:77",
+      "last_verse_key": "37:102",
+      "from": "37:77",
+      "to": "37:102"
+    },
+    "450": {
+      "first_verse_key": "37:103",
+      "last_verse_key": "37:126",
+      "from": "37:103",
+      "to": "37:126"
+    },
+    "451": {
+      "first_verse_key": "37:127",
+      "last_verse_key": "37:153",
+      "from": "37:127",
+      "to": "37:153"
+    },
+    "452": {
+      "first_verse_key": "37:154",
+      "last_verse_key": "37:182",
+      "from": "37:154",
+      "to": "37:182"
+    },
+    "453": {
+      "first_verse_key": "38:1",
+      "last_verse_key": "38:16",
+      "from": "38:1",
+      "to": "38:16"
+    },
+    "454": {
+      "first_verse_key": "38:17",
+      "last_verse_key": "38:26",
+      "from": "38:17",
+      "to": "38:26"
+    },
+    "455": {
+      "first_verse_key": "38:27",
+      "last_verse_key": "38:42",
+      "from": "38:31",
+      "to": "38:42"
+    },
+    "456": {
+      "first_verse_key": "38:43",
+      "last_verse_key": "38:61",
+      "from": "38:43",
+      "to": "38:61"
+    },
+    "457": {
+      "first_verse_key": "38:62",
+      "last_verse_key": "38:83",
+      "from": "38:62",
+      "to": "38:83"
+    },
+    "458": {
+      "first_verse_key": "38:84",
+      "last_verse_key": "39:5",
+      "from": "38:84",
+      "to": "39:5"
+    },
+    "459": {
+      "first_verse_key": "39:6",
+      "last_verse_key": "39:10",
+      "from": "39:6",
+      "to": "39:10"
+    },
+    "460": {
+      "first_verse_key": "39:11",
+      "last_verse_key": "39:21",
+      "from": "39:11",
+      "to": "39:21"
+    },
+    "461": {
+      "first_verse_key": "39:22",
+      "last_verse_key": "39:31",
+      "from": "39:22",
+      "to": "39:31"
+    },
+    "462": {
+      "first_verse_key": "39:32",
+      "last_verse_key": "39:40",
+      "from": "39:32",
+      "to": "39:40"
+    },
+    "463": {
+      "first_verse_key": "39:41",
+      "last_verse_key": "39:47",
+      "from": "39:41",
+      "to": "39:47"
+    },
+    "464": {
+      "first_verse_key": "39:48",
+      "last_verse_key": "39:56",
+      "from": "39:48",
+      "to": "39:56"
+    },
+    "465": {
+      "first_verse_key": "39:57",
+      "last_verse_key": "39:67",
+      "from": "39:57",
+      "to": "39:67"
+    },
+    "466": {
+      "first_verse_key": "39:68",
+      "last_verse_key": "39:74",
+      "from": "39:68",
+      "to": "39:74"
+    },
+    "467": {
+      "first_verse_key": "39:75",
+      "last_verse_key": "40:7",
+      "from": "39:75",
+      "to": "40:7"
+    },
+    "468": {
+      "first_verse_key": "40:8",
+      "last_verse_key": "40:16",
+      "from": "40:8",
+      "to": "40:16"
+    },
+    "469": {
+      "first_verse_key": "40:17",
+      "last_verse_key": "40:25",
+      "from": "40:17",
+      "to": "40:25"
+    },
+    "470": {
+      "first_verse_key": "40:26",
+      "last_verse_key": "40:33",
+      "from": "40:26",
+      "to": "40:33"
+    },
+    "471": {
+      "first_verse_key": "40:34",
+      "last_verse_key": "40:40",
+      "from": "40:34",
+      "to": "40:40"
+    },
+    "472": {
+      "first_verse_key": "40:41",
+      "last_verse_key": "40:49",
+      "from": "40:41",
+      "to": "40:49"
+    },
+    "473": {
+      "first_verse_key": "40:50",
+      "last_verse_key": "40:58",
+      "from": "40:50",
+      "to": "40:58"
+    },
+    "474": {
+      "first_verse_key": "40:59",
+      "last_verse_key": "40:66",
+      "from": "40:59",
+      "to": "40:66"
+    },
+    "475": {
+      "first_verse_key": "40:67",
+      "last_verse_key": "40:77",
+      "from": "40:67",
+      "to": "40:77"
+    },
+    "476": {
+      "first_verse_key": "40:78",
+      "last_verse_key": "40:85",
+      "from": "40:78",
+      "to": "40:85"
+    },
+    "477": {
+      "first_verse_key": "41:1",
+      "last_verse_key": "41:11",
+      "from": "41:1",
+      "to": "41:11"
+    },
+    "478": {
+      "first_verse_key": "41:12",
+      "last_verse_key": "41:20",
+      "from": "41:12",
+      "to": "41:20"
+    },
+    "479": {
+      "first_verse_key": "41:21",
+      "last_verse_key": "41:29",
+      "from": "41:21",
+      "to": "41:29"
+    },
+    "480": {
+      "first_verse_key": "41:30",
+      "last_verse_key": "41:38",
+      "from": "41:30",
+      "to": "41:38"
+    },
+    "481": {
+      "first_verse_key": "41:39",
+      "last_verse_key": "41:46",
+      "from": "41:39",
+      "to": "41:46"
+    },
+    "482": {
+      "first_verse_key": "41:47",
+      "last_verse_key": "41:54",
+      "from": "41:47",
+      "to": "41:54"
+    },
+    "483": {
+      "first_verse_key": "42:1",
+      "last_verse_key": "42:10",
+      "from": "42:1",
+      "to": "42:10"
+    },
+    "484": {
+      "first_verse_key": "42:11",
+      "last_verse_key": "42:15",
+      "from": "42:11",
+      "to": "42:15"
+    },
+    "485": {
+      "first_verse_key": "42:16",
+      "last_verse_key": "42:22",
+      "from": "42:16",
+      "to": "42:22"
+    },
+    "486": {
+      "first_verse_key": "42:23",
+      "last_verse_key": "42:31",
+      "from": "42:23",
+      "to": "42:31"
+    },
+    "487": {
+      "first_verse_key": "42:32",
+      "last_verse_key": "42:44",
+      "from": "42:32",
+      "to": "42:44"
+    },
+    "488": {
+      "first_verse_key": "42:45",
+      "last_verse_key": "42:51",
+      "from": "42:45",
+      "to": "42:51"
+    },
+    "489": {
+      "first_verse_key": "42:52",
+      "last_verse_key": "43:10",
+      "from": "42:52",
+      "to": "43:10"
+    },
+    "490": {
+      "first_verse_key": "43:11",
+      "last_verse_key": "43:22",
+      "from": "43:11",
+      "to": "43:22"
+    },
+    "491": {
+      "first_verse_key": "43:23",
+      "last_verse_key": "43:33",
+      "from": "43:23",
+      "to": "43:33"
+    },
+    "492": {
+      "first_verse_key": "43:34",
+      "last_verse_key": "43:47",
+      "from": "43:34",
+      "to": "43:47"
+    },
+    "493": {
+      "first_verse_key": "43:48",
+      "last_verse_key": "43:60",
+      "from": "43:48",
+      "to": "43:60"
+    },
+    "494": {
+      "first_verse_key": "43:61",
+      "last_verse_key": "43:73",
+      "from": "43:61",
+      "to": "43:73"
+    },
+    "495": {
+      "first_verse_key": "43:74",
+      "last_verse_key": "43:89",
+      "from": "43:76",
+      "to": "43:89"
+    },
+    "496": {
+      "first_verse_key": "44:1",
+      "last_verse_key": "44:18",
+      "from": "44:1",
+      "to": "44:18"
+    },
+    "497": {
+      "first_verse_key": "44:19",
+      "last_verse_key": "44:39",
+      "from": "44:19",
+      "to": "44:39"
+    },
+    "498": {
+      "first_verse_key": "44:40",
+      "last_verse_key": "44:59",
+      "from": "44:40",
+      "to": "44:59"
+    },
+    "499": {
+      "first_verse_key": "45:1",
+      "last_verse_key": "45:13",
+      "from": "45:1",
+      "to": "45:13"
+    },
+    "500": {
+      "first_verse_key": "45:14",
+      "last_verse_key": "45:22",
+      "from": "45:14",
+      "to": "45:22"
+    },
+    "501": {
+      "first_verse_key": "45:23",
+      "last_verse_key": "45:32",
+      "from": "45:23",
+      "to": "45:32"
+    },
+    "502": {
+      "first_verse_key": "45:33",
+      "last_verse_key": "46:5",
+      "from": "45:33",
+      "to": "46:5"
+    },
+    "503": {
+      "first_verse_key": "46:6",
+      "last_verse_key": "46:14",
+      "from": "46:6",
+      "to": "46:14"
+    },
+    "504": {
+      "first_verse_key": "46:15",
+      "last_verse_key": "46:20",
+      "from": "46:15",
+      "to": "46:20"
+    },
+    "505": {
+      "first_verse_key": "46:21",
+      "last_verse_key": "46:28",
+      "from": "46:21",
+      "to": "46:28"
+    },
+    "506": {
+      "first_verse_key": "46:29",
+      "last_verse_key": "46:35",
+      "from": "46:29",
+      "to": "46:35"
+    },
+    "507": {
+      "first_verse_key": "47:1",
+      "last_verse_key": "47:11",
+      "from": "47:1",
+      "to": "47:11"
+    },
+    "508": {
+      "first_verse_key": "47:12",
+      "last_verse_key": "47:19",
+      "from": "47:12",
+      "to": "47:19"
+    },
+    "509": {
+      "first_verse_key": "47:20",
+      "last_verse_key": "47:29",
+      "from": "47:20",
+      "to": "47:29"
+    },
+    "510": {
+      "first_verse_key": "47:30",
+      "last_verse_key": "47:38",
+      "from": "47:30",
+      "to": "47:38"
+    },
+    "511": {
+      "first_verse_key": "48:1",
+      "last_verse_key": "48:9",
+      "from": "48:1",
+      "to": "48:9"
+    },
+    "512": {
+      "first_verse_key": "48:10",
+      "last_verse_key": "48:15",
+      "from": "48:10",
+      "to": "48:15"
+    },
+    "513": {
+      "first_verse_key": "48:16",
+      "last_verse_key": "48:23",
+      "from": "48:16",
+      "to": "48:23"
+    },
+    "514": {
+      "first_verse_key": "48:24",
+      "last_verse_key": "48:28",
+      "from": "48:24",
+      "to": "48:28"
+    },
+    "515": {
+      "first_verse_key": "48:29",
+      "last_verse_key": "49:4",
+      "from": "48:29",
+      "to": "49:4"
+    },
+    "516": {
+      "first_verse_key": "49:5",
+      "last_verse_key": "49:11",
+      "from": "49:5",
+      "to": "49:11"
+    },
+    "517": {
+      "first_verse_key": "49:12",
+      "last_verse_key": "49:18",
+      "from": "49:12",
+      "to": "49:18"
+    },
+    "518": {
+      "first_verse_key": "50:1",
+      "last_verse_key": "50:15",
+      "from": "50:1",
+      "to": "50:15"
+    },
+    "519": {
+      "first_verse_key": "50:16",
+      "last_verse_key": "50:35",
+      "from": "50:16",
+      "to": "50:35"
+    },
+    "520": {
+      "first_verse_key": "50:36",
+      "last_verse_key": "51:6",
+      "from": "50:36",
+      "to": "51:6"
+    },
+    "521": {
+      "first_verse_key": "51:7",
+      "last_verse_key": "51:30",
+      "from": "51:7",
+      "to": "51:30"
+    },
+    "522": {
+      "first_verse_key": "51:31",
+      "last_verse_key": "51:51",
+      "from": "51:31",
+      "to": "51:51"
+    },
+    "523": {
+      "first_verse_key": "51:52",
+      "last_verse_key": "52:14",
+      "from": "51:52",
+      "to": "52:14"
+    },
+    "524": {
+      "first_verse_key": "52:15",
+      "last_verse_key": "52:31",
+      "from": "52:15",
+      "to": "52:31"
+    },
+    "525": {
+      "first_verse_key": "52:32",
+      "last_verse_key": "52:49",
+      "from": "52:32",
+      "to": "52:49"
+    },
+    "526": {
+      "first_verse_key": "53:1",
+      "last_verse_key": "53:26",
+      "from": "53:17",
+      "to": "53:26"
+    },
+    "527": {
+      "first_verse_key": "53:27",
+      "last_verse_key": "53:44",
+      "from": "53:27",
+      "to": "53:44"
+    },
+    "528": {
+      "first_verse_key": "53:45",
+      "last_verse_key": "54:6",
+      "from": "53:45",
+      "to": "54:6"
+    },
+    "529": {
+      "first_verse_key": "54:7",
+      "last_verse_key": "54:27",
+      "from": "54:7",
+      "to": "54:27"
+    },
+    "530": {
+      "first_verse_key": "54:28",
+      "last_verse_key": "54:49",
+      "from": "54:28",
+      "to": "54:49"
+    },
+    "531": {
+      "first_verse_key": "54:50",
+      "last_verse_key": "55:18",
+      "from": "54:50",
+      "to": "55:18"
+    },
+    "532": {
+      "first_verse_key": "55:19",
+      "last_verse_key": "55:41",
+      "from": "55:19",
+      "to": "55:41"
+    },
+    "533": {
+      "first_verse_key": "55:42",
+      "last_verse_key": "55:69",
+      "from": "55:42",
+      "to": "55:69"
+    },
+    "534": {
+      "first_verse_key": "55:70",
+      "last_verse_key": "56:16",
+      "from": "55:70",
+      "to": "56:16"
+    },
+    "535": {
+      "first_verse_key": "56:17",
+      "last_verse_key": "56:50",
+      "from": "56:17",
+      "to": "56:50"
+    },
+    "536": {
+      "first_verse_key": "56:51",
+      "last_verse_key": "56:76",
+      "from": "56:51",
+      "to": "56:76"
+    },
+    "537": {
+      "first_verse_key": "56:77",
+      "last_verse_key": "57:3",
+      "from": "56:77",
+      "to": "57:3"
+    },
+    "538": {
+      "first_verse_key": "57:4",
+      "last_verse_key": "57:11",
+      "from": "57:4",
+      "to": "57:11"
+    },
+    "539": {
+      "first_verse_key": "57:12",
+      "last_verse_key": "57:18",
+      "from": "57:12",
+      "to": "57:18"
+    },
+    "540": {
+      "first_verse_key": "57:19",
+      "last_verse_key": "57:24",
+      "from": "57:19",
+      "to": "57:24"
+    },
+    "541": {
+      "first_verse_key": "57:25",
+      "last_verse_key": "57:29",
+      "from": "57:25",
+      "to": "57:29"
+    },
+    "542": {
+      "first_verse_key": "58:1",
+      "last_verse_key": "58:6",
+      "from": "58:1",
+      "to": "58:6"
+    },
+    "543": {
+      "first_verse_key": "58:7",
+      "last_verse_key": "58:11",
+      "from": "58:7",
+      "to": "58:11"
+    },
+    "544": {
+      "first_verse_key": "58:12",
+      "last_verse_key": "58:21",
+      "from": "58:12",
+      "to": "58:21"
+    },
+    "545": {
+      "first_verse_key": "58:22",
+      "last_verse_key": "59:3",
+      "from": "58:22",
+      "to": "59:3"
+    },
+    "546": {
+      "first_verse_key": "59:4",
+      "last_verse_key": "59:9",
+      "from": "59:4",
+      "to": "59:9"
+    },
+    "547": {
+      "first_verse_key": "59:10",
+      "last_verse_key": "59:16",
+      "from": "59:10",
+      "to": "59:16"
+    },
+    "548": {
+      "first_verse_key": "59:17",
+      "last_verse_key": "59:24",
+      "from": "59:17",
+      "to": "59:24"
+    },
+    "549": {
+      "first_verse_key": "60:1",
+      "last_verse_key": "60:5",
+      "from": "60:1",
+      "to": "60:5"
+    },
+    "550": {
+      "first_verse_key": "60:6",
+      "last_verse_key": "60:11",
+      "from": "60:6",
+      "to": "60:11"
+    },
+    "551": {
+      "first_verse_key": "60:12",
+      "last_verse_key": "61:5",
+      "from": "60:12",
+      "to": "61:5"
+    },
+    "552": {
+      "first_verse_key": "61:6",
+      "last_verse_key": "61:14",
+      "from": "61:6",
+      "to": "61:14"
+    },
+    "553": {
+      "first_verse_key": "62:1",
+      "last_verse_key": "62:8",
+      "from": "62:1",
+      "to": "62:8"
+    },
+    "554": {
+      "first_verse_key": "62:9",
+      "last_verse_key": "63:4",
+      "from": "62:9",
+      "to": "63:4"
+    },
+    "555": {
+      "first_verse_key": "63:5",
+      "last_verse_key": "63:11",
+      "from": "63:5",
+      "to": "63:11"
+    },
+    "556": {
+      "first_verse_key": "64:1",
+      "last_verse_key": "64:9",
+      "from": "64:2",
+      "to": "64:9"
+    },
+    "557": {
+      "first_verse_key": "64:10",
+      "last_verse_key": "64:18",
+      "from": "64:10",
+      "to": "64:18"
+    },
+    "558": {
+      "first_verse_key": "65:1",
+      "last_verse_key": "65:5",
+      "from": "65:1",
+      "to": "65:5"
+    },
+    "559": {
+      "first_verse_key": "65:6",
+      "last_verse_key": "65:12",
+      "from": "65:6",
+      "to": "65:12"
+    },
+    "560": {
+      "first_verse_key": "66:1",
+      "last_verse_key": "66:7",
+      "from": "66:1",
+      "to": "66:7"
+    },
+    "561": {
+      "first_verse_key": "66:8",
+      "last_verse_key": "66:12",
+      "from": "66:8",
+      "to": "66:12"
+    },
+    "562": {
+      "first_verse_key": "67:1",
+      "last_verse_key": "67:12",
+      "from": "67:1",
+      "to": "67:12"
+    },
+    "563": {
+      "first_verse_key": "67:13",
+      "last_verse_key": "67:26",
+      "from": "67:13",
+      "to": "67:26"
+    },
+    "564": {
+      "first_verse_key": "67:27",
+      "last_verse_key": "68:16",
+      "from": "67:27",
+      "to": "68:16"
+    },
+    "565": {
+      "first_verse_key": "68:17",
+      "last_verse_key": "68:42",
+      "from": "68:17",
+      "to": "68:42"
+    },
+    "566": {
+      "first_verse_key": "68:43",
+      "last_verse_key": "69:8",
+      "from": "68:43",
+      "to": "69:8"
+    },
+    "567": {
+      "first_verse_key": "69:9",
+      "last_verse_key": "69:35",
+      "from": "69:9",
+      "to": "69:35"
+    },
+    "568": {
+      "first_verse_key": "69:36",
+      "last_verse_key": "70:10",
+      "from": "69:36",
+      "to": "70:10"
+    },
+    "569": {
+      "first_verse_key": "70:11",
+      "last_verse_key": "70:40",
+      "from": "70:11",
+      "to": "70:40"
+    },
+    "570": {
+      "first_verse_key": "70:41",
+      "last_verse_key": "71:10",
+      "from": "70:41",
+      "to": "71:10"
+    },
+    "571": {
+      "first_verse_key": "71:11",
+      "last_verse_key": "71:28",
+      "from": "71:11",
+      "to": "71:28"
+    },
+    "572": {
+      "first_verse_key": "72:1",
+      "last_verse_key": "72:13",
+      "from": "72:1",
+      "to": "72:13"
+    },
+    "573": {
+      "first_verse_key": "72:14",
+      "last_verse_key": "72:28",
+      "from": "72:14",
+      "to": "72:28"
+    },
+    "574": {
+      "first_verse_key": "73:1",
+      "last_verse_key": "73:19",
+      "from": "73:1",
+      "to": "73:19"
+    },
+    "575": {
+      "first_verse_key": "73:20",
+      "last_verse_key": "74:18",
+      "from": "73:20",
+      "to": "74:18"
+    },
+    "576": {
+      "first_verse_key": "74:19",
+      "last_verse_key": "74:47",
+      "from": "74:19",
+      "to": "74:47"
+    },
+    "577": {
+      "first_verse_key": "74:48",
+      "last_verse_key": "75:19",
+      "from": "74:48",
+      "to": "75:19"
+    },
+    "578": {
+      "first_verse_key": "75:20",
+      "last_verse_key": "76:5",
+      "from": "75:20",
+      "to": "76:5"
+    },
+    "579": {
+      "first_verse_key": "76:6",
+      "last_verse_key": "76:25",
+      "from": "76:10",
+      "to": "76:25"
+    },
+    "580": {
+      "first_verse_key": "76:26",
+      "last_verse_key": "77:19",
+      "from": "76:26",
+      "to": "77:19"
+    },
+    "581": {
+      "first_verse_key": "77:20",
+      "last_verse_key": "77:50",
+      "from": "77:20",
+      "to": "77:50"
+    },
+    "582": {
+      "first_verse_key": "78:1",
+      "last_verse_key": "78:30",
+      "from": "78:1",
+      "to": "78:30"
+    },
+    "583": {
+      "first_verse_key": "78:31",
+      "last_verse_key": "79:16",
+      "from": "78:31",
+      "to": "79:16"
+    },
+    "584": {
+      "first_verse_key": "79:17",
+      "last_verse_key": "79:46",
+      "from": "79:17",
+      "to": "79:46"
+    },
+    "585": {
+      "first_verse_key": "80:1",
+      "last_verse_key": "80:40",
+      "from": "80:1",
+      "to": "80:40"
+    },
+    "586": {
+      "first_verse_key": "80:41",
+      "last_verse_key": "81:29",
+      "from": "80:41",
+      "to": "81:29"
+    },
+    "587": {
+      "first_verse_key": "82:1",
+      "last_verse_key": "83:4",
+      "from": "82:1",
+      "to": "83:4"
+    },
+    "588": {
+      "first_verse_key": "83:5",
+      "last_verse_key": "83:33",
+      "from": "83:5",
+      "to": "83:33"
+    },
+    "589": {
+      "first_verse_key": "83:34",
+      "last_verse_key": "84:24",
+      "from": "83:34",
+      "to": "84:24"
+    },
+    "590": {
+      "first_verse_key": "84:25",
+      "last_verse_key": "85:22",
+      "from": "84:25",
+      "to": "85:22"
+    },
+    "591": {
+      "first_verse_key": "86:1",
+      "last_verse_key": "87:10",
+      "from": "86:1",
+      "to": "87:10"
+    },
+    "592": {
+      "first_verse_key": "87:11",
+      "last_verse_key": "88:22",
+      "from": "87:11",
+      "to": "88:22"
+    },
+    "593": {
+      "first_verse_key": "88:23",
+      "last_verse_key": "89:22",
+      "from": "89:8",
+      "to": "89:22"
+    },
+    "594": {
+      "first_verse_key": "89:23",
+      "last_verse_key": "90:18",
+      "from": "89:23",
+      "to": "90:18"
+    },
+    "595": {
+      "first_verse_key": "90:19",
+      "last_verse_key": "92:9",
+      "from": "90:19",
+      "to": "92:9"
+    },
+    "596": {
+      "first_verse_key": "92:10",
+      "last_verse_key": "94:2",
+      "from": "92:10",
+      "to": "94:2"
+    },
+    "597": {
+      "first_verse_key": "94:3",
+      "last_verse_key": "96:12",
+      "from": "94:3",
+      "to": "96:12"
+    },
+    "598": {
+      "first_verse_key": "96:13",
+      "last_verse_key": "98:5",
+      "from": "96:13",
+      "to": "98:5"
+    },
+    "599": {
+      "first_verse_key": "98:6",
+      "last_verse_key": "100:5",
+      "from": "98:6",
+      "to": "100:5"
+    },
+    "600": {
+      "first_verse_key": "100:6",
+      "last_verse_key": "102:8",
+      "from": "100:6",
+      "to": "102:8"
+    },
+    "601": {
+      "first_verse_key": "103:1",
+      "last_verse_key": "105:5",
+      "from": "103:1",
+      "to": "105:5"
+    },
+    "602": {
+      "first_verse_key": "106:1",
+      "last_verse_key": "108:3",
+      "from": "106:1",
+      "to": "108:3"
+    },
+    "603": {
+      "first_verse_key": "109:1",
+      "last_verse_key": "111:5",
+      "from": "109:1",
+      "to": "111:5"
+    },
+    "604": {
+      "first_verse_key": "112:1",
+      "last_verse_key": "114:6",
+      "from": "112:1",
+      "to": "114:6"
+    }
+  }
+}
