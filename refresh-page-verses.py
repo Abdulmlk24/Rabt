@@ -23,6 +23,8 @@ starts={}
 for p in range(1,605):
     key=pages[str(p)]['first_verse_key']; surah,ayah=map(int,key.split(':'))
     starts[str(p)]={'text':by_key[key]['text_uthmani'],'surah':names[surah],'ayah':ayah,'verseKey':key}
+    last_key=pages[str(p)]['last_verse_key']; last_surah,last_ayah=map(int,last_key.split(':'))
+    starts[str(p)]['last']={'text':by_key[last_key]['text_uthmani'],'surah':names[last_surah],'ayah':last_ayah,'verseKey':last_key}
 path=Path('rabt.html'); html=path.read_text(encoding='utf-8')
 old=json.loads(re.search(r'const PAGE_VERSES=(.*?);\n',html).group(1))
 changed=[p for p in starts if old[p]['ayah']!=starts[p]['ayah'] or re.sub(r'[\W\d_]+','',old[p]['text'])!=re.sub(r'[\W\d_]+','',starts[p]['text'])]
